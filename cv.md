@@ -17,3 +17,15 @@
 
 ## Education: ##
 * 2003-2009 NTU “KhPI”, Faculty of Informatics and Management, Computer Aided Management System Department, master degree in “Management of the organisation”, red diploma.
+
+## Foreign languages: ##
+* English (Intermediate).
+
+## Skills: ##
+* Basic knowledge in HTML5, CSS3, JavaScript;
+* Database system: SQL;
+* iReport (Jasper reports);
+* Jira.
+
+## Additional: ##
+* Attentive to details, tenacious.
