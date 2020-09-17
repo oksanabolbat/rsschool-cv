@@ -1,0 +1,25 @@
+body{
+    padding:20px;
+    font:Carme;
+}
+h1, h3{
+    color: #293b40;
+}
+a{
+    text-decoration:none;
+    color:#8dc5d6;
+}
+.main{
+    margin:0 auto;
+    max-width: 1024px;
+}
+.maininfo ul{
+    list-style-type:none;
+    float:left;
+
+}
+.photo{
+    width:174px;
+    float:right;
+}
+.clear{clear:both;}
