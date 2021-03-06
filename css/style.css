@@ -1,25 +1,36 @@
-body{
-    padding:20px;
-    font:Carme;
+body {
+  padding: 20px;
+  font-family: 'Carme', sans-serif;
 }
-h1, h3{
-    color: #293b40;
+h1,
+h3 {
+  color: #293b40;
 }
-a{
-    text-decoration:none;
-    color:#8dc5d6;
+a {
+  text-decoration: none;
+  color: #8dc5d6;
 }
-.main{
-    margin:0 auto;
-    max-width: 1024px;
+main {
+  margin: 0 auto;
+  max-width: 1024px;
 }
-.maininfo ul{
-    list-style-type:none;
-    float:left;
-
+header ul {
+  list-style-type: none;
+  float: left;
 }
-.photo{
-    width:174px;
-    float:right;
+.photo {
+  width: 174px;
+  float: right;
 }
-.clear{clear:both;}
+.clear {
+  clear: both;
+}
+footer {
+  text-align: center;
+}
+footer img {
+  width: 50px;
+}
+mark {
+  background-color: #f0f2f5;
+}
